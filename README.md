@@ -29,7 +29,7 @@ The Cloudflare Image Uploader is a Python script designed to automate the bulk u
 
 ### Open the upload_img_py.py file and add your details 
 
-# Your settings
+Your settings
 API_TOKEN = 'your_api_token'
 ACCOUNT_ID = 'your_account_id'
 IMAGES_DIRECTORY = 'X:\\Cloudflare Images\\Image_To_Be_Uploaded'
@@ -37,6 +37,10 @@ PROCESSED_DIRECTORY = 'X:\\Cloudflare Images\\Image_To_Be_Uploaded\\PROCESSED_DI
 CATALOG_FILE_PATH = 'X:\\Cloudflare Images\\Image_To_Be_Uploaded\\image_catalog.md'
 
 
+Edit Start_Image_upload.bat
+
+add your path to python, unsure type in CMD type:  where python 
+add your folder path to Image_To_Be_Uploaded
 
 ## Usage
 
@@ -56,6 +60,7 @@ Check your markdown file for cloudflare url's
 Export as index.html and have all your images in a web browser to scroll through, right click to copy image url for pasting in your applications!
 
 
+Pro Tip use notepad + + with Markdown viewer and just click export to html, double click html to open in web browser, find your image and right click save image link ( which is the cloudflare image url! 
 ---
 
 <img src="https://imagedelivery.net/WfhVb8dSNAAvdXUdMfBuPQ/130577bc-512d-4a7e-9293-fe548d591700/public" alt="bot.png" width="256" />
