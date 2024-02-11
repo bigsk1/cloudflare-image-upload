@@ -35,12 +35,14 @@ add all the files and folder INSIDE cloudflare-image-upload folder into it
 ### Open the upload_img_py.py file and add your details 
 
 Your settings
+
+```bash
 API_TOKEN = 'your_api_token'
 ACCOUNT_ID = 'your_account_id'
 IMAGES_DIRECTORY = 'X:\\Cloudflare Images\\Image_To_Be_Uploaded'
 PROCESSED_DIRECTORY = 'X:\\Cloudflare Images\\Image_To_Be_Uploaded\\PROCESSED_DIRECTORY'
 CATALOG_FILE_PATH = 'X:\\Cloudflare Images\\Image_To_Be_Uploaded\\image_catalog.md'
-
+```
 
 Edit Start_Image_upload.bat
 
