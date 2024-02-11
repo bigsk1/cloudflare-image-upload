@@ -68,7 +68,7 @@ Export as index.html and have all your images in a web browser to scroll through
 
 
 
-Pro Tip use notepad + + with Markdown viewer and just click export to html, double click html to open in web browser, find your image and right click save image link ( which is the cloudflare image url! 
+Pro Tip use notepad + + with Markdown viewer and just click export to html, double click html to open in web browser, find your image and right click save image link ( which is the cloudflare image url! )
 
 ---
 
