@@ -27,6 +27,11 @@ The Cloudflare Image Uploader is a Python script designed to automate the bulk u
    ```bash
    pip install requests
 
+### Create a folder called Image_To_Be_Uploaded
+
+add all the files and folder INSIDE cloudflare-image-upload folder into it
+
+
 ### Open the upload_img_py.py file and add your details 
 
 Your settings
