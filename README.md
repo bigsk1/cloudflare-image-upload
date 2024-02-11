@@ -65,7 +65,9 @@ Check your markdown file for cloudflare url's
 Export as index.html and have all your images in a web browser to scroll through, right click to copy image url for pasting in your applications!
 
 
+
 Pro Tip use notepad + + with Markdown viewer and just click export to html, double click html to open in web browser, find your image and right click save image link ( which is the cloudflare image url! 
+
 ---
 
 <img src="https://imagedelivery.net/WfhVb8dSNAAvdXUdMfBuPQ/130577bc-512d-4a7e-9293-fe548d591700/public" alt="bot.png" width="256" />
